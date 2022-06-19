@@ -2,9 +2,6 @@
   <a href="https://t.me/deadanddiefox">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://wa.me/79533833359">
-    <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
-  </a>
 </div>
 
 <div align="center">
