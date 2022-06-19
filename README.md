@@ -8,11 +8,9 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AntonSoboleww&style=flat-square&color=blue" alt=""/>
    <h1>
     Добро пожаловать!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"/>
-  </h1>
+   </h1>
 </div>
 
 
