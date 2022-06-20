@@ -40,12 +40,13 @@
 
 • Nginx, Docker
 
-• PostgreSQL, Sqlite3, SQLAlchemy
+• PostgreSQL, MySQL, Sqlite3, SQLAlchemy
 
 • Redis
 
 • Bootstrap + Django templates
 
+• Unit-testing
 
 • Система контроля версий: GitLub, GitHub, BitBucket
 
